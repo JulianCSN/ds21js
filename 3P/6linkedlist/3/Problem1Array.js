@@ -14,6 +14,8 @@
 *
 *   BY José Julián Rodríguez Cisneros    3F 
 *
+*       ARRAYS
+*
 */
 
 //declarar array y contador de pasos
